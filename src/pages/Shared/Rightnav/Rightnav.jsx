@@ -13,7 +13,7 @@ const Rightnav = () => {
         <Button className='w-100' variant="outline-secondary"> <FaGithub /> Login with Github</Button>
       </div>
       <div className='mt-5'>
-        <h4 className='fw-bold'>Login With</h4>
+        <h4 className='fw-bold'>Find us on</h4>
         <ListGroup className='mt-4'>
           <ListGroup.Item> <FaFacebook /> Facebook</ListGroup.Item>
           <ListGroup.Item> <FaTwitter /> Twitter</ListGroup.Item>
